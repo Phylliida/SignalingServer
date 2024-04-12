@@ -1,2 +1,2 @@
-# SignalingServer
-Simple Signaling Server for P2P applications (meant to be deployed with Render)
+# ru-webrtc-signaler
+A rust websocket signaling server, TURN server, and STUN server all packaged together
